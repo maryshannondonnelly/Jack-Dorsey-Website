@@ -1,0 +1,53 @@
+body {
+	background-color: #ccffff ;
+	font-family: Bell MT Regular;
+	color: ;
+}
+
+#pic1 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: left;
+	margin: 0 0 1em 1em;
+}
+#pic2 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: right;
+	margin: 0 0 1em 1em
+}
+#pic3 img {
+	width: 1350px;
+	height: 600px;
+}
+#pic4 img {
+	width: 300px;
+	height: 300px;
+	box-shadow: 8px 8px 10px #ffffff;
+	float: left;
+	margin: 0 0 1em 1em;
+}
+
+#pic5 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: right;
+	margin: 0 0 1em 1em
+}
+#pic6 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: left;
+	margin: 0 0 1em 1em
+}
+#pic7 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: right;
+	margin: 0 0 1em 1em
+}
+#pic8 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: left;
+	margin: 0 0 1em 1em
+}
+#pic9 img {
+	box-shadow: 8px 8px 10px #ffffff;
+	float: right;
+	margin: 0 0 1em 1em
+}
